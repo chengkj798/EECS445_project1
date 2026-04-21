@@ -5,7 +5,7 @@ It turns a simple portfolio into clear answers, allocation views, and plain-Engl
 
 This repo is built as a **submission-ready concept package** for a small hackathon-style project. It includes:
 
-- three polished demo screenshots
+- three polished demo mockups
 - a realistic sample portfolio seeded with public market data
 - a project overview
 - a blog draft that can be adapted for a Jac / Jaseci community post
@@ -32,14 +32,16 @@ The goal is not to replace a professional terminal. The goal is to make portfoli
 
 ## Demo screenshots
 
+These lightweight SVG mockups are included directly in the repo so the demo renders cleanly on GitHub.
+
 ### 1) Portfolio input dashboard
-![Portfolio input dashboard](assets/01_portfolio_input_dashboard.png)
+![Portfolio input dashboard](assets/01_portfolio_input_dashboard.svg)
 
 ### 2) Allocation chart
-![Allocation chart](assets/02_portfolio_allocation_chart.png)
+![Allocation chart](assets/02_portfolio_allocation_chart.svg)
 
 ### 3) Chat result
-![Chat result](assets/03_portfolio_chat_result.png)
+![Chat result](assets/03_portfolio_chat_result.svg)
 
 ## Sample portfolio
 
@@ -91,15 +93,15 @@ That makes the project a strong fit for a graph-oriented, AI-native workflow.
 ## Repo structure
 
 ```text
-portfolio_lens_pack/
+.
 ├── README.md
 ├── PROJECT_INTRO.md
 ├── BLOG_DRAFT_JACHACKS.md
 ├── PUBLIC_DATA_NOTES.md
 ├── assets/
-│   ├── 01_portfolio_input_dashboard.png
-│   ├── 02_portfolio_allocation_chart.png
-│   └── 03_portfolio_chat_result.png
+│   ├── 01_portfolio_input_dashboard.svg
+│   ├── 02_portfolio_allocation_chart.svg
+│   └── 03_portfolio_chat_result.svg
 └── data/
     └── sample_portfolio.csv
 ```
