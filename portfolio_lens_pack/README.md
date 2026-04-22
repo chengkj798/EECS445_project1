@@ -38,8 +38,8 @@ The goal is not to replace a professional terminal. The goal is to make portfoli
 ### 2) Allocation chart
 ![Allocation chart](assets/02_portfolio_allocation_chart.svg)
 
-### 3) Chat result
-![Chat result](assets/03_portfolio_chat_result.svg)
+### 3) Insight panel
+![Insight panel](assets/03_portfolio_insight_panel.svg)
 
 ## Sample portfolio
 
@@ -99,7 +99,7 @@ portfolio_lens_pack/
 ├── assets/
 │   ├── 01_portfolio_input_dashboard.svg
 │   ├── 02_portfolio_allocation_chart.svg
-│   └── 03_portfolio_chat_result.svg
+│   └── 03_portfolio_insight_panel.svg
 └── data/
     └── sample_portfolio.csv
 ```
@@ -126,7 +126,6 @@ It is designed to help with:
 
 **Portfolio Lens** helps users understand a portfolio without dashboard overload.  
 Instead of forcing users to dig through tables, it answers simple portfolio questions in normal language and pairs those answers with a clear allocation view.
-
 
 ## Asset note
 
