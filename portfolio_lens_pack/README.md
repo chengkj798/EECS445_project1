@@ -95,7 +95,6 @@ portfolio_lens_pack/
 ├── README.md
 ├── PROJECT_INTRO.md
 ├── PORTFOLIO_LENS_BLOG.md
-├── PUBLIC_DATA_NOTES.md
 ├── assets/
 │   ├── 01_portfolio_input_dashboard.svg
 │   ├── 02_portfolio_allocation_chart.svg
